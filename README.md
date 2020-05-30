@@ -1,5 +1,7 @@
 # Zillow Search
 
+**NOT AFFILIATED WITH ZILLOW. PERSONAL PROJECT FOR LEARNING PURPOSES**
+
 Simple package to load search results from Zillow given a search term
 
 ```javascript

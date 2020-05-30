@@ -1,6 +1,6 @@
 {
     "name": "zillow-search",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Zillow search library",
     "main": "main.js",
     "keywords": [
