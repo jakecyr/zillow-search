@@ -12,10 +12,12 @@
     "dependencies": {
         "axios": "^0.19.2",
         "cheerio": "^1.0.0-rc.3",
-        "phantomjs-prebuilt": "^2.1.16"
+        "phantomjs-prebuilt": "^2.1.16",
+        "system": "^2.0.1",
+        "webpage": "^0.3.0"
     },
     "devDependencies": {
-        "@types/node": "^14.0.5",
-        "@types/axios": "^0.14.0"
+        "@types/axios": "^0.14.0",
+        "@types/node": "^14.14.7"
     }
 }
