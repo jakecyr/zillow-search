@@ -23,3 +23,7 @@ console.log(results);
   ]
 */
 ```
+
+## How it Works
+
+Uses Puppeteer to pull data from Zillow.com

@@ -1,23 +1,20 @@
 {
-    "name": "zillow-search",
-    "version": "1.0.2",
-    "description": "Zillow search library",
-    "main": "main.js",
-    "keywords": [
-        "zillow",
-        "real estate"
-    ],
-    "author": "Jake Cyr",
-    "license": "ISC",
-    "dependencies": {
-        "axios": "^0.21.1",
-        "cheerio": "^1.0.0-rc.3",
-        "phantomjs-prebuilt": "^2.1.16",
-        "system": "^2.0.1",
-        "webpage": "^0.3.0"
-    },
-    "devDependencies": {
-        "@types/axios": "^0.14.0",
-        "@types/node": "^14.14.7"
-    }
+  "name": "zillow-search",
+  "version": "1.0.2",
+  "description": "Zillow search library",
+  "main": "main.js",
+  "keywords": [
+    "zillow",
+    "real estate"
+  ],
+  "author": "Jake Cyr",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "puppeteer": "^14.1.2"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^14.14.7"
+  }
 }
